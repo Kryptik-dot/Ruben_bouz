@@ -1,9 +1,9 @@
-# 👋 Hey, I'm Ruben Bouzanga
+#  👋🏾 Hey, I'm Ruben Bouzanga
 
 🎓 BFSDA Student @ **ESCIC**, Pointe-Noire, Congo  
 🚀 Building digital solutions tailored for the Congolese market  
 💡 Founder mindset — I don't just code, I build products  
-🤝 Open to collabs, internships & interesting projects  
+🤝🏾 Open to collabs, internships & interesting projects  
 
 ---
 
@@ -21,8 +21,7 @@
 ## 🚀 Projects
 
 ### 🛒 Biloko Express
-> E-commerce platform built for the Congolese market  
-> Mobile Money · FCFA · Django · `In progress`
+> E-commerce platform for the Congolese market — Mobile Money · FCFA · Django · `🔨 In development`
 
 ### 🏥 Mini Doctolib
 > Medical appointment web app — Full-stack Django school project · `Completed`
